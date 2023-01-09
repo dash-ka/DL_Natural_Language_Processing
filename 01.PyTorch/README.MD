@@ -8,7 +8,7 @@ This repo contains materials that will help you to start using **PyTorch** in yo
 
 ### PyTorch: Basics
 
-There are many deep learing frameworks that you can use to design and deploy your neural network applications. **PyTorch** is a well documented and easy to learn deep learning framework, especially popular in the research community. [**PyTorch_Basics.ipynb**](./PyTorch_Basics.ipynb) notebook will help you familize with the library.  It collects the basic functions and methods that will turn useful in practical applications.
+There are many deep learing frameworks that you can use to design and deploy your neural network applications. **PyTorch** is a well documented and easy to learn deep learning framework, especially popular in the research community. [**PyTorch_Basics.ipynb**](./PyTorch_Basics.ipynb) notebook will help you familiarize with the library.  It collects the basic functions and methods that will turn useful in practical applications.
 For further details and more advanced methods, check out the official documentation. (https://pytorch.org/tutorials/beginner/ptcheat.html)
 
 ### PyTorch: Building NNs
