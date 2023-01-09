@@ -1,6 +1,6 @@
 # 1. PyTorch and Neural Networks
 
-This repo contains materials that will help you to start using **PyTorch** in your deep learning projects.
+Here you will find some useful materials to start using **PyTorch** in your deep learning projects.
 <p align=center>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width=400>
 </p>
