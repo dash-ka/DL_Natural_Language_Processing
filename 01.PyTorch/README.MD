@@ -20,5 +20,5 @@ There are many deep learing frameworks that you can use to design and deploy you
 
 ### Practice: Yelp Reviews Classification :)
 
-Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**Sentiment Classification with.ipynb**](./Sentiment Classification with NNs.ipynb) 
+Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**Sentiment Classification with NNs.ipynb**](./Sentiment Classification with NNs.ipynb) 
 
