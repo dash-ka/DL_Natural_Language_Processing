@@ -9,8 +9,8 @@ This repo contains materials that will help you start with **PyTorch** deep lear
 ### PyTorch: Basics
 
 There are many deep learing frameworks that you can use to design and deploy your neural network applications. We decided to  for **PyTorch**, is popular in the research community and well documented and easy to learn. Notebook will equip you with necessary knowledge for further practical application. 
+[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) 
 
-Предлагаем посмотреть [**запись семинара**](https://www.youtube.com/watch?v=UoBYayBPh84) и выполнить задания в [**[seminar]pytorch_basics.ipynb**](./[seminar]pytorch_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Wrur4sqHVO0MQLX0-9ifBsD79HXWUtUF). 
 
 При изучении таких больших фреймворков может оказаться полезной [шпаргалка по основным функциям](https://pytorch.org/tutorials/beginner/ptcheat.html), которая находится на официальном сайте PyTorch.
 
