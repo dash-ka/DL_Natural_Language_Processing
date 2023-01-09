@@ -13,9 +13,9 @@ For more detailed explanation and advanced methods, check out official documenta
 
 ### PyTorch: Building NNs
 
-[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) notebook delves deeper into PyTorch functional. We explore the core PyTorch features and  learn the fundamentals on the basis of practical deep learning implementation, such as computational graphs and automatic differentiation. Finally, we learn how to build a Neural Netowrk and present the routines of neural netowrk training.
+[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) notebook delves deeper into PyTorch functional. We explore the core PyTorch features and  learn the fundamentals underlying PyTorch deep learning applications, such as computational graphs and automatic differentiation. Finally, we build our first Neural Network and set up the routine for neural netowork training.
 
 ### Practice: Yelp Reviews Classification :)
 
-Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**Sentiment Classification with NNs.ipynb**](./Sentiment Classification with NNs.ipynb) 
+Now it's time to put in practice what we've learned with previous notebooks. In [**Sentiment Classification with NNs.ipynb**](./Sentiment Classification with NNs.ipynb)  we'll design a neural model to solve a real world case of sentiment classification of restaurant reviews. 
 
