@@ -17,5 +17,5 @@ For more detailed explanation and advanced methods, check out official documenta
 
 ### Practice: Yelp Reviews Classification :)
 
-Now it's time to leave the sandbox and have fun with some real world deep learning application. In [**Sentiment Classification with NNs.ipynb**](./Sentiment Classification with NNs.ipynb)  we'll design a neural model on the task of sentiment classification applied to Restaurant Reviews. 
+Now it's time to leave the sandbox and have fun with some real world deep learning application. In [**Sentiment_Classification_with_NNs.ipynb**](./Sentiment_Classification_with_NNs.ipynb)  we'll design a neural model on the task of sentiment classification applied to Restaurant Reviews. 
 
