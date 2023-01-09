@@ -10,7 +10,7 @@ This repo contains materials that introduce you **PyTorch** library, очень 
 
 Чтобы узнать общую информацию о многослойных сетях и о том, как с их помощью решать проблему многоклассовой классификации, посмотрите [**запись лекции**](https://www.youtube.com/watch?v=FSb5vuG6Bkw).
 
-### PyTorch: Основы
+### PyTorch: Basics
 
 Существует много разных фреймворков для создания нейросетей (например, **TensorFlow**), но в нашем курсе мы будем использовать **PyTorch**, потому что он намного быстрее развивается и в целом проще в освоении. Его API очень похож на API NumPy, поэтому Вам будет легче, если вы уже понимаете принципы работы NumPy и знаете его основные функции.
 
@@ -18,7 +18,7 @@ This repo contains materials that introduce you **PyTorch** library, очень 
 
 При изучении таких больших фреймворков может оказаться полезной [шпаргалка по основным функциям](https://pytorch.org/tutorials/beginner/ptcheat.html), которая находится на официальном сайте PyTorch.
 
-### PyTorch: Один нейрон
+### PyTorch: Building NNs
 
 На прошлом занятии вы создавали свой нейрон с помощью NumPy, теперь пришло время сделать то же самое, но с помощью PyTorch. Jupyter-ноутбук [**[seminar]neuron_pytorch.ipynb**](./[seminar]neuron_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1rKTMDU_zvhqTM7FosQOTd1Nb3Aw-eaD9) поможет Вам в этом, а в записи семинара (ссыка выше) семинарист уже разбирает, как ее полностью выполнить. Выполнив тетрадь, вы можете сравнить, насколько отличаются реализации на NumPy и на PyTorch.
 
