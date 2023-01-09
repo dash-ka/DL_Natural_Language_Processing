@@ -1,6 +1,6 @@
-# 6. PyTorch и Многослойные нейронные сети
+# 1. PyTorch and Neural Networks
 
-Приветствуем Вас на **шестом** занятии нашего курса. Сегодняшнее занятие будет посвящено **PyTorch**, очень мощному и современному фреймворку, на котором создаются нейронные сети. В конце занятия мы познакомимся с первым видом нейронных сетей -- **Multi-Layer Perceptron (MLP)**, или **Fully-Connected Network (FC)**, по-русски **Полносвязные нейросети**. 
+This repo contains materials that introduce you **PyTorch** library, очень мощному и современному фреймворку, на котором создаются нейронные сети. В конце занятия мы познакомимся с первым видом нейронных сетей -- **Multi-Layer Perceptron (MLP)**, или **Fully-Connected Network (FC)**, по-русски **Полносвязные нейросети**. 
 
 <p align=center>
   <img src="https://www.machinelearningmastery.ru/img/0-953466-715076.png" width=400>
