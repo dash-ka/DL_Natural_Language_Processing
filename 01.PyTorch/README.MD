@@ -3,7 +3,7 @@
 This repo contains materials that introduce you **PyTorch** library, очень мощному и современному фреймворку, на котором создаются нейронные сети. В конце занятия мы познакомимся с первым видом нейронных сетей -- **Multi-Layer Perceptron (MLP)**, или **Fully-Connected Network (FC)**, по-русски **Полносвязные нейросети**. 
 
 <p align=center>
-  <img src="https://www.machinelearningmastery.ru/img/0-953466-715076.png" width=400>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width=400>
 </p>
 
 ### Лекция: Многослойные нейросети
@@ -22,10 +22,7 @@ This repo contains materials that introduce you **PyTorch** library, очень 
 
 На прошлом занятии вы создавали свой нейрон с помощью NumPy, теперь пришло время сделать то же самое, но с помощью PyTorch. Jupyter-ноутбук [**[seminar]neuron_pytorch.ipynb**](./[seminar]neuron_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1rKTMDU_zvhqTM7FosQOTd1Nb3Aw-eaD9) поможет Вам в этом, а в записи семинара (ссыка выше) семинарист уже разбирает, как ее полностью выполнить. Выполнив тетрадь, вы можете сравнить, насколько отличаются реализации на NumPy и на PyTorch.
 
-### PyTorch: Многослойная полносвязная нейросеть (Fully Connected, FC)
+### Practice: Yelp Reviews Classification :)
 
-Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**[seminar]mlp_pytorch.ipynb**](./[seminar]mlp_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1YQ5EfthNJMW0Nu406w3VJNf4Roi3aA24) с пропущенным кодом, смотря запись семинара в случае трудностей.
+Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**[Sentiment Classification with.ipynb**](./Sentiment Classification with NNs.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://drive.google.com/open?id=1Lmv4rsJiCWVs1nzs4ywA9YI-ADsTf6WB) с пропущенным кодом, смотря запись семинара в случае трудностей.
 
-### Домашнее задание
-
-Сегодня домашним заданием будет соревнование на Kaggle. Разобраться с тем, что делать, вам поможет ноутбук [**[homework]fashionmnist_kaggle.ipynb**](./[homework]fashionmnist_kaggle.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/12i5o9-QI4E8l3xLxndLpoLHSaCKsTpkF) (файл sample_submission.csv будет недоступен из Google Colab, но он есть в этом репозитории). Если вы официально прослушиваете наш курс, то в зависимости от вашей точности вы получите оценку.
