@@ -13,7 +13,7 @@ For more detailed explanation and advanced methods, check out official documenta
 
 ### PyTorch: Building NNs
 
-[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) На прошлом занятии вы создавали свой нейрон с помощью NumPy, теперь пришло время сделать то же самое, но с помощью PyTorch. Jupyter-ноутбук [**[seminar]neuron_pytorch.ipynb**](./[seminar]neuron_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1rKTMDU_zvhqTM7FosQOTd1Nb3Aw-eaD9) поможет Вам в этом, а в записи семинара (ссыка выше) семинарист уже разбирает, как ее полностью выполнить. Выполнив тетрадь, вы можете сравнить, насколько отличаются реализации на NumPy и на PyTorch.
+[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) notebook delves deeper into PyTorch functional. We explore the core PyTorch features and  learn the fundamentals on the basis of practical deep learning implementation, such as computational graphs and automatic differentiation. Finally, we learn how to build a Neural Netowrk and present the routines of neural netowrk training.
 
 ### Practice: Yelp Reviews Classification :)
 
