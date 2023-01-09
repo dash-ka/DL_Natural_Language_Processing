@@ -1,18 +1,14 @@
 # 1. PyTorch and Neural Networks
 
-This repo contains materials that introduce you **PyTorch** library, очень мощному и современному фреймворку, на котором создаются нейронные сети. В конце занятия мы познакомимся с первым видом нейронных сетей -- **Multi-Layer Perceptron (MLP)**, или **Fully-Connected Network (FC)**, по-русски **Полносвязные нейросети**. 
-
+This repo contains materials that introduce you **PyTorch** library, a powerful deeep learning framework. In the materials you will fins a couple of notebooks to help you familiarizing with the library.
 <p align=center>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width=400>
 </p>
 
-### Лекция: Многослойные нейросети
-
-Чтобы узнать общую информацию о многослойных сетях и о том, как с их помощью решать проблему многоклассовой классификации, посмотрите [**запись лекции**](https://www.youtube.com/watch?v=FSb5vuG6Bkw).
 
 ### PyTorch: Basics
 
-Существует много разных фреймворков для создания нейросетей (например, **TensorFlow**), но в нашем курсе мы будем использовать **PyTorch**, потому что он намного быстрее развивается и в целом проще в освоении. Его API очень похож на API NumPy, поэтому Вам будет легче, если вы уже понимаете принципы работы NumPy и знаете его основные функции.
+Here are many deep learing frameworks that you can use to design and deploy your neural network applications. We decided to  for **PyTorch**, is popular in the research community and well documented and easy to learn. Notebook will equip you with necessary knowledge for further practical application. 
 
 Предлагаем посмотреть [**запись семинара**](https://www.youtube.com/watch?v=UoBYayBPh84) и выполнить задания в [**[seminar]pytorch_basics.ipynb**](./[seminar]pytorch_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Wrur4sqHVO0MQLX0-9ifBsD79HXWUtUF). 
 
