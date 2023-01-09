@@ -24,5 +24,5 @@ This repo contains materials that introduce you **PyTorch** library, очень 
 
 ### Practice: Yelp Reviews Classification :)
 
-Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**[Sentiment Classification with.ipynb**](./Sentiment Classification with NNs.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://drive.google.com/open?id=1Lmv4rsJiCWVs1nzs4ywA9YI-ADsTf6WB) с пропущенным кодом, смотря запись семинара в случае трудностей.
+Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (еще называют Fully Connected, или Dense, как и ее лиейные слои). Как всегда, вы можете использовать jupyter-ноутбук [**Sentiment Classification with.ipynb**](./Sentiment Classification with NNs.ipynb) 
 
