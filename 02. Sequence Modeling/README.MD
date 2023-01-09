@@ -9,11 +9,11 @@
 
 
 
-The goal of resources collected in this repository is to show the easy way to model linguistic data where the order matters: sequences.
+Here you can find some awesome materials that will show you the easy way to model sequences, the kind of linguistic data where the order matters.
 
-Here you can find materials that will make you familiar with basic neural models excelling in sequence modeling task: Recurrent Neural Networks.
-We provide you with intuition about recurrent neural networks, and illustrate their power with 2 practical applications:
+You will become familiar with neural models excelling in sequence modeling task: Recurrent Neural Networks.
+We equip you with intuition about recurrent neural networks, and illustrate their power with two practical applications:
 
-First, we try out recurrent neural model in classification setting. (Yelp Restaurant Reviews classification with RNNs)
+First, we shall revise the Yelp Restaurant Reviews from the previous class, to try out recurrent neural networks in an already familiar classification setting.
 
-[**Shakespear_Alive!.ipynb**](./Shakespear_Alive!.ipynb) we will learn to generate Shakespearean-like text. task of Language Modeling, comparing classical N-Gram and Neural approaches on Shakespearean style writting.
+In [**Shakespear_Alive!.ipynb**](./Shakespear_Alive!.ipynb) we switch to a new task of text generation, and bring to live characters from the most notable Shakespeare's plays. We will learn the "noble art" of language modeling and will create an artificial system able to adapt to the writing style of any writer you please. epic playwriter of  Shakespeare style writting and compare to The learn the fascinating task of language modeling to generate verses and  will learn to generate Shakespearean-like text. task of Language Modeling, comparing classical N-Gram and Neural approaches on Shakespearean style writting.
