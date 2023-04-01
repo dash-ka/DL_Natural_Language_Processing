@@ -13,7 +13,7 @@ For further details and more advanced methods, check out the official documentat
 
 ### PyTorch: Building NNs
 
-[**Deep_Learning_with_PyTorch.ipynb**](./Deep_Learning_with_PyTorch.ipynb) notebook delves deeper into PyTorch functional. We explore the core PyTorch features and  learn the fundamentals underlying PyTorch deep learning applications, such as computational graphs and automatic differentiation. Finally, we build our first Neural Network and set up the routines for neural network training.
+[**Deep_Learning_in_PyTorch.ipynb**](./Deep_Learning_in_PyTorch.ipynb) and [**Deep_Learning_Pipeline_in_PyTorch.ipynb**](./Deep_Learning_Pipeline_in_PyTorch.ipynb)  delve deeper into PyTorch functional. We explore the core PyTorch features and  learn the fundamentals underlying PyTorch deep learning applications, such as computational graphs and automatic differentiation. Finally, we build our first Neural Network and set up the routine for the neural network training.
 
 ### Practice: Yelp Reviews Classification :)
 
